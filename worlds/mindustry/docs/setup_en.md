@@ -8,7 +8,7 @@
 
 ## Create a local room
 
-Install the Mindustry APWorld in Archipelago, then place a player options YAML in Archipelago's `Players` directory. The APWorld release provides `MindustryDefaultOptions.yaml`; copy it to `Players/Mindustry.yaml` and edit its `name:` field and options before generating. Run Archipelago's generator and start `ArchipelagoServer` with the generated room. For general room generation and hosting instructions, see the [Archipelago setup guide](../../../../tutorial/Archipelago/setup/en).
+Install the Mindustry APWorld in Archipelago, then place a player options YAML in Archipelago's `Players` directory. The APWorld release provides `MindustryDefaultOptions.yaml`; copy it to `Players/Mindustry.yaml` and edit its `name:` field and options before generating. Run Archipelago's generator and start `ArchipelagoServer` with the generated room. For general room generation and hosting instructions, see the [Archipelago setup guide](https://archipelago.gg/tutorial/Archipelago/setup_en).
 
 For the connection example below, set `name: Mindustry`. Use the name in your YAML when connecting the client. Keep a generated room and its server save together if you intend to resume it later.
 
